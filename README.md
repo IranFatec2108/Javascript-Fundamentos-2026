@@ -8,7 +8,8 @@ Repositório criado para documentar meu processo de aprendizado em JavaScript.
 
 ## 📅 Início
 
-14/01/2026 - Dia 1
+30/12/2025 - Repositório criado em 14/01/2026
+
 
 ## 📚 Conteúdo
 
