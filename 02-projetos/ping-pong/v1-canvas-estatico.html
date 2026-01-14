@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ping Pong v1 - Canvas Estático</title>
+</head>
+<body>
+
+    <canvas id ="folha"  width="600" height="500">
+        <script>
+           var folhaDesenho = document.getElementById("folha");
+           var areaDesenho = folhaDesenho.getContext('2d');
+
+            var larguraCampo = 600;
+            var alturaCampo = 500;
+            var larguraLinha = 5;
+            var larguraBola = 5;
+            var alturaRaquete = 50;
+
+
+            //fundo
+            areaDesenho.fillStyle = '#286047';
+            areaDesenho.fillRect(0, 0, larguraCampo, alturaCampo);
+
+
+            //Linha central
+            areaDesenho.fillStyle = '#ffffff';
+            areaDesenho.fillRect(larguraCampo/2 - larguraLinha/2, 0, larguraLinha, alturaCampo);
+
+
+            //raquete 1
+            areaDesenho.fillRect(0, 30,larguraLinha, alturaRaquete);
+
+
+            //raquete 2
+            areaDesenho.fillRect(larguraCampo - larguraLinha, 30,larguraLinha, alturaRaquete);
+
+            //bola
+            areaDesenho.fillRect(30, 30, larguraBola, larguraBola);
+
+            
+      
+        </script>
+    </canvas>
+    
+</body>
+</html>
