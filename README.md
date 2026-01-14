@@ -13,6 +13,7 @@ Repositório criado para documentar meu processo de aprendizado em JavaScript.
 ## 📚 Conteúdo
 
 - `01-fundamentos/` - Variáveis, operadores, condicionais, loops
+- `02-projetos/` - Projetos que serão criados a partir do meu desenvolvimento da linguagem JS 
 - `diario-de-bordo.md` - Anotações diárias do aprendizado
 
 ## 🎯 Meta
