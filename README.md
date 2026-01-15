@@ -4,7 +4,7 @@ Repositório de estudos: JavaScript do zero ao backend profissional.
 
 ## 📖 Sobre
 
-Documentação completa da minha jornada de aprendizado em JavaScript, focando em fundamentos sólidos e evolução para backend com Node.js + TypeScript.]
+Documentação completa da minha jornada de aprendizado em JavaScript, focando em fundamentos sólidos e evolução para backend com Node.js + TypeScript.
 
 **Início:** 30/12/2025  
 **Metodologia:** Código manual, commits diários, documentação detalhada
@@ -20,7 +20,7 @@ Documentação completa da minha jornada de aprendizado em JavaScript, focando e
 - Autenticação JWT
 - APIs RESTful (CRUD completo)
 
-**Projetos planejados:**[memory:11]
+**Projetos planejados:**
 - Encurtador de URL (backend)
 - Sistema de autenticação completo (JWT + refresh tokens)
 - API REST com TypeScript + validações
