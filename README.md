@@ -1,31 +1,30 @@
 # 🚀 JavaScript Fundamentos 2026
 
-Repositório de estudos: JavaScript do zero ao backend profissional.[memory:11]
+Repositório de estudos: JavaScript do zero ao backend profissional.
 
 ## 📖 Sobre
 
-Documentação completa da minha jornada de aprendizado em JavaScript, focando em fundamentos sólidos e evolução para backend com Node.js + TypeScript.[memory:28]
+Documentação completa da minha jornada de aprendizado em JavaScript, focando em fundamentos sólidos e evolução para backend com Node.js + TypeScript.]
 
 **Início:** 30/12/2025  
-**Metodologia:** Código manual, commits diários, documentação detalhada[memory:11]
+**Metodologia:** Código manual, commits diários, documentação detalhada
 
 ## 🎯 Objetivos
 
-**Curto prazo (Jan-Mar/2026):**[memory:28]
+**Curto prazo (Jan-Mar/2026):**
 - Dominar fundamentos JavaScript (ES6+)
-- Projetos práticos com JS puro[memory:11]
-
-**Médio prazo (Abr-Jun/2026):**[memory:28]
+- Projetos práticos com JS puro
+**Médio prazo (Abr-Jun/2026):**
 - Node.js + Express
-- TypeScript (tipagem estática)[memory:11]
+- TypeScript (tipagem estática)
 - Autenticação JWT
-- APIs RESTful (CRUD completo)[memory:28]
+- APIs RESTful (CRUD completo)
 
 **Projetos planejados:**[memory:11]
 - Encurtador de URL (backend)
-- Sistema de autenticação completo (JWT + refresh tokens)[memory:28]
+- Sistema de autenticação completo (JWT + refresh tokens)
 - API REST com TypeScript + validações
-- Integração com banco de dados (PostgreSQL/MongoDB)[memory:11]
+- Integração com banco de dados (PostgreSQL/MongoDB)
 
 
 ## 📂 Estrutura
@@ -38,34 +37,34 @@ text
 
 ## 📚 Stack Atual
 
-**Estudando agora:**[memory:11]
+**Estudando agora:**
 - JavaScript (vanilla)
-- HTML5 Canvas[memory:28]
+- HTML5 Canvas
 - Validações e boas práticas
 
-**Próximos passos:**[memory:11]
+**Próximos passos:**
 - Node.js + Express
-- TypeScript[memory:28]
+- TypeScript
 - PostgreSQL
-- Docker (básico)[memory:11]
+- Docker (básico)
 
 ## 📊 Progresso
 
-**Commits totais:** [automático pelo GitHub]  
-**Último update:** 15/01/2026[memory:28]  
+**Commits totais:**
+**Último update:** 15/01/2026  
 **Streak:** Em andamento
 
 ## 📖 Documentação
 
-- [Fundamentos](01-fundamentos/) - Exercícios de sintaxe[memory:11]
+- [Fundamentos](01-fundamentos/) - Exercícios de sintaxe
 - [Projetos](02-projetos/) - Aplicações práticas
-- [Diário de Bordo](diario-de-bordo.md) - Cronologia detalhada[memory:28]
+- [Diário de Bordo](diario-de-bordo.md) - Cronologia detalhada
 
 ## 🎓 Formação
 
 **ADS - FATEC** (Concluído)  
-Foco atual: Aprofundamento técnico em backend JavaScript/TypeScript[memory:11]
+Foco atual: Aprofundamento técnico em backend JavaScript/TypeScript
 
 ---
 
-**Contato:** [Linkedin - [Iran Camargo](https://www.linkedin.com/in/iran-camargo-158682283/)] | [camargoiran48@tgmail.com][memory:28]
+**Contato:** [Linkedin - [Iran Camargo](https://www.linkedin.com/in/iran-camargo-158682283/)] | [camargoiran48@tgmail.com]
