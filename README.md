@@ -1,22 +1,72 @@
 # 🚀 JavaScript Fundamentos 2026
 
-Minha jornada reaprendendo JavaScript do ZERO - commits diários.
+Repositório de estudos: JavaScript do zero ao backend profissional.[memory:11]
 
 ## 📖 Sobre
 
-Repositório criado para documentar meu processo de aprendizado em JavaScript.
+Documentação completa da minha jornada de aprendizado em JavaScript, focando em fundamentos sólidos e evolução para backend com Node.js + TypeScript.[memory:28]
 
-## 📅 Início
+**Início:** 30/12/2025  
+**Metodologia:** Código manual, commits diários, documentação detalhada[memory:11]
 
-30/12/2025 - Repositório criado em 14/01/2026
+## 🎯 Objetivos
 
+**Curto prazo (Jan-Mar/2026):**[memory:28]
+- Dominar fundamentos JavaScript (ES6+)
+- Projetos práticos com JS puro[memory:11]
 
-## 📚 Conteúdo
+**Médio prazo (Abr-Jun/2026):**[memory:28]
+- Node.js + Express
+- TypeScript (tipagem estática)[memory:11]
+- Autenticação JWT
+- APIs RESTful (CRUD completo)[memory:28]
 
-- `01-fundamentos/` - Variáveis, operadores, condicionais, loops
-- `02-projetos/` - Projetos que serão criados a partir do meu desenvolvimento da linguagem JS 
-- `diario-de-bordo.md` - Anotações diárias do aprendizado
+**Projetos planejados:**[memory:11]
+- Encurtador de URL (backend)
+- Sistema de autenticação completo (JWT + refresh tokens)[memory:28]
+- API REST com TypeScript + validações
+- Integração com banco de dados (PostgreSQL/MongoDB)[memory:11]
 
-## 🎯 Meta
+## 📂 Estrutura
 
-Commits diários documentando progresso real.
+## 📂 Estrutura
+
+📁 01-fundamentos/ → Sintaxe básica e conceitos core
+📁 02-projetos/ → Aplicações práticas
+📄 diario-de-bordo.md → Registro cronológico
+
+text
+
+## 📚 Stack Atual
+
+**Estudando agora:**[memory:11]
+- JavaScript (vanilla)
+- HTML5 Canvas[memory:28]
+- Validações e boas práticas
+
+**Próximos passos:**[memory:11]
+- Node.js + Express
+- TypeScript[memory:28]
+- PostgreSQL
+- Docker (básico)[memory:11]
+
+## 📊 Progresso
+
+**Commits totais:** [automático pelo GitHub]  
+**Último update:** 15/01/2026[memory:28]  
+**Streak:** Em andamento
+
+## 📖 Documentação
+
+- [Fundamentos](01-fundamentos/) - Exercícios de sintaxe[memory:11]
+- [Projetos](02-projetos/) - Aplicações práticas
+- [Diário de Bordo](diario-de-bordo.md) - Cronologia detalhada[memory:28]
+
+## 🎓 Formação
+
+**ADS - FATEC** (Concluído)  
+Foco atual: Aprofundamento técnico em backend JavaScript/TypeScript[memory:11]
+
+---
+
+**Contato:** [Linkedin - [Iran Camargo](https://www.linkedin.com/in/iran-camargo-158682283/)] | [camargoiran48@tgmail.com][memory:28]
