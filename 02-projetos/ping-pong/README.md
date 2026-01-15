@@ -1,71 +1,70 @@
 # 🎮 Projetos Práticos
 
-Aplicações completas desenvolvidas durante o aprendizado.[memory:11]
+Aplicações completas desenvolvidas durante o aprendizado.
 
 ## 🏓 Ping Pong (Canvas API)
 
-**Tecnologias:** HTML5 Canvas, JavaScript ES6[memory:28]  
+**Tecnologias:** HTML5 Canvas, JavaScript ES6  
 **Pasta:** `ping-pong/`
 
-### Evolução do Projeto[memory:11]
+### Evolução do Projeto
 
-**v1 - Canvas Estático** (`v1-canvas-estatico.html`)[memory:28]
+**v1 - Canvas Estático** (`v1-canvas-estatico.html`)
 - Renderização básica de elementos
-- Conceitos: `getContext('2d')`, `fillRect()`, coordenadas[memory:11]
+- Conceitos: `getContext('2d')`, `fillRect()`, coordenadas
 
-**v2 - Jogo Funcional** (`v2-jogo-completo.html`)[memory:28]
+**v2 - Jogo Funcional** (`v2-jogo-completo.html`)
 - Animação com `setInterval()`
-- Detecção de colisão (boundaries + raquetes)[memory:11]
+- Detecção de colisão (boundaries + raquetes)
 - Sistema de pontuação
-- Event listeners (mousemove)[memory:28]
+- Event listeners (mousemove)
 
-**v3 - Código Refatorado** (`v3-codigo-refatorado.html`)[memory:11]
+**v3 - Código Refatorado** (`v3-codigo-refatorado.html`)
 - Separação de responsabilidades
-- Funções modulares: `iniciar()`, `desenhar()`, `calcular()`, `resetBola()`[memory:28]
+- Funções modulares: `iniciar()`, `desenhar()`, `calcular()`, `resetBola()`
 - Código limpo e documentado
 
-### Conceitos Aplicados[memory:11]
-
+### Conceitos Aplicados
 - Canvas API (desenho 2D)
-- Game loop (requestAnimationFrame pattern)[memory:28]
+- Game loop (requestAnimationFrame pattern)
 - Física básica (velocidade, colisão)
-- Event handling[memory:11]
+- Event handling
 - Refatoração e clean code
 
 ---
 
 ## 🚀 Projetos Planejados (Q2 2026)
 
-### **Backend com Node.js + TypeScript**[memory:28]
+### **Backend com Node.js + TypeScript**
 
-**Encurtador de URL**[memory:11]
+**Encurtador de URL**
 - Express.js
-- Geração de IDs únicos (nanoid/short-uuid)[memory:28]
+- Geração de IDs únicos (nanoid/short-uuid)
 - Redirect handling
-- Persistência (PostgreSQL ou MongoDB)[memory:11]
+- Persistência (PostgreSQL ou MongoDB)
 - Rate limiting
 
-**Sistema de Autenticação JWT**[memory:28]
+**Sistema de Autenticação JWT**
 - Registro e login
-- Hash de senhas (bcrypt)[memory:11]
+- Hash de senhas (bcrypt)
 - Access + Refresh tokens
-- Middleware de autenticação[memory:28]
+- Middleware de autenticação
 - Validação de email
 
-**API REST Completa (CRUD)**[memory:11]
+**API REST Completa (CRUD)**
 - TypeScript (tipagem forte)
-- Express + TypeORM/Prisma[memory:28]
+- Express + TypeORM/Prisma
 - Validação de dados (Zod/Joi)
-- Error handling centralizado[memory:11]
+- Error handling centralizado
 - Documentação (Swagger)
 
 ---
 
 ## 📊 Status
 
-**Projetos concluídos:** 1 (Ping Pong)[memory:28]  
+**Projetos concluídos:** 1 (Ping Pong)]  
 **Em desenvolvimento:** -  
-**Planejados:** 3 (backend)[memory:11]
+**Planejados:** 3 (backend)
 
 **Stack atual:** JavaScript puro  
-**Próxima stack:** Node.js + TypeScript + PostgreSQL[memory:28]
+**Próxima stack:** Node.js + TypeScript + PostgreSQL
