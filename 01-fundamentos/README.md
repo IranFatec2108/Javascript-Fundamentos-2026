@@ -1,80 +1,79 @@
 # 📚 Fundamentos JavaScript
 
-Exercícios práticos cobrindo sintaxe básica e conceitos essenciais.[memory:28]
+Exercícios práticos cobrindo sintaxe básica e conceitos essenciais.
 
 ## 📝 Conteúdo
 
-### **Controle de Fluxo**[memory:11]
-
-**`condicionais.js`**[memory:28]
+### **Controle de Fluxo**
+**`condicionais.js`**
 - Operadores lógicos (`&&`, `||`, `!`)
-- If/else aninhado[memory:11]
+- If/else aninhado
 - Comparações estritas (`===` vs `==`)
 
-**`loop-logaritmo-natural.js`**[memory:28]
+**`loop-logaritmo-natural.js`**
 - Loop `for` com incremento customizado
-- `Math.log()` (logaritmo natural)[memory:11]
+- `Math.log()` (logaritmo natural)
 - Iteração controlada por input
 
-### **Funções**[memory:28]
+### **Funções**
 
-**`funcoes-basicas.js`**[memory:11]
+**`funcoes-basicas.js`**
 - Declaração e invocação
-- Parâmetros e argumentos[memory:28]
+- Parâmetros e argumentos
 - Return values
 
-### **Validação e Tratamento de Dados**[memory:11]
+### **Validação e Tratamento de Dados**
 
-**`calculadora-completa-validada.js`**[memory:28]
+**`calculadora-completa-validada.js`**
 - Switch/case para múltiplas operações
-- Validação de divisão por zero[memory:11]
+- Validação de divisão por zero
 - Loop infinito com break/continue
-- Conversão de tipos (`Number()`, `isNaN()`)[memory:28]
+- Conversão de tipos (`Number()`, `isNaN()`)
 
-**`validacao-idade-completa.js`**[memory:11]
+**`validacao-idade-completa.js`**
 - Validação em camadas (tamanho, tipo, range)
-- `.length` para strings[memory:28]
+- `.length` para strings
 - `new Date().getFullYear()` 
-- Lógica de maioridade[memory:11]
+- Lógica de maioridade
 
-**`saudacao-multilinguagem.js`**[memory:28]
+**`saudacao-multilinguagem.js`**
 - Normalização de entrada (`.toLowerCase()`)
-- Condicionais complexas (múltiplos `&&` e `||`)[memory:11]
+- Condicionais complexas (múltiplos `&&` e `||`)
 - Estrutura escalável para i18n
 
 ## 🛠️ Técnicas Praticadas
 
-**Validações:**[memory:28]
+**Validações:**
 - `.trim()` - Sanitização de input
-- `isNaN()` - Type checking[memory:11]
+- `isNaN()` - Type checking
 - Range validation (min/max)
-- Guard clauses[memory:28]
+- Guard clauses
 
-**Controle de Fluxo:**[memory:11]
+**Controle de Fluxo:**
 - Loops (`for`, `while`, `do-while`)
-- `break` / `continue`[memory:28]
+- `break` / `continue`
 - Switch/case vs if/else
 
-**Boas Práticas:**[memory:11]
+**Boas Práticas:**
 - `const` vs `let` (imutabilidade quando possível)
-- Comentários explicativos[memory:28]
+- Comentários explicativos
 - Nomes descritivos de variáveis
-- Fail-fast validation[memory:11]
+- Fail-fast validation
 
 ## 📈 Roadmap
 
-**Concluído:**[memory:28]
+**Concluído:**
 - ✅ Variáveis e tipos
-- ✅ Operadores[memory:11]
+- ✅ Operadores
 - ✅ Condicionais
-- ✅ Loops básicos[memory:28]
+- ✅ Loops básicos
 - ✅ Funções (básico)
-- ✅ Validações[memory:11]
+- ✅ Validações
 
-**Próximo:**[memory:28]
+**Próximo:**
 - [ ] Arrays (map, filter, reduce)
-- [ ] Objetos e métodos[memory:11]
+- [ ] Objetos e métodos
 - [ ] Arrow functions
-- [ ] Destructuring[memory:28]
+- [ ] Destructuring
 - [ ] Spread operator
-- [ ] Promises/Async-await[memory:11]
+- [ ] Promises/Async-await
