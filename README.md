@@ -27,7 +27,6 @@ Documentação completa da minha jornada de aprendizado em JavaScript, focando e
 - API REST com TypeScript + validações
 - Integração com banco de dados (PostgreSQL/MongoDB)[memory:11]
 
-## 📂 Estrutura
 
 ## 📂 Estrutura
 
