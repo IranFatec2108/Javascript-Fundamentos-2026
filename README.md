@@ -30,9 +30,9 @@ Documentação completa da minha jornada de aprendizado em JavaScript, focando e
 
 ## 📂 Estrutura
 
-📁 01-fundamentos/ → Sintaxe básica e conceitos core
-📁 02-projetos/ → Aplicações práticas
-📄 diario-de-bordo.md → Registro cronológico
+-📁 01-fundamentos/ → Sintaxe básica e conceitos core
+-📁 02-projetos/ → Aplicações práticas
+-📄 diario-de-bordo.md → Registro cronológico
 
 text
 
