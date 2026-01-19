@@ -106,3 +106,16 @@ Estudei validação de entrada em múltiplas camadas e funções matemáticas.
 
 **Reflexão:** Código de saudação foi escrito no início (dez/2025) com `var`. Hoje refatoraria com `const/let`, guard clauses e validação fail-fast. Mantive original para documentar evolução.
 
+## 19/01/2026 - Dia 7: Estrutura do Repositório
+
+**Organizei:** Criação da pasta `03-exercicios-reforco/` para treino intensivo.
+
+**Estrutura final:**
+- `01-fundamentos/` - Conceitos das aulas
+- `02-projetos/` - Aplicações reais
+- `03-exercicios-reforco/` - Academia de código (treino diário)
+
+**Conquista:** Repositório profissionalmente estruturado com 3 níveis de aprendizado!
+
+---
+

@@ -62,7 +62,7 @@ Aplicações completas desenvolvidas durante o aprendizado.
 
 ## 📊 Status
 
-**Projetos concluídos:** 1 (Ping Pong)]  
+**Projetos concluídos:** 1 (Ping Pong) 
 **Em desenvolvimento:** -  
 **Planejados:** 3 (backend)
 

@@ -29,11 +29,14 @@ Documentação completa da minha jornada de aprendizado em JavaScript, focando e
 
 ## 📂 Estrutura
 
+**--**
+
 -📁 01-fundamentos/ → Sintaxe básica e conceitos core
 -📁 02-projetos/ → Aplicações práticas
--📄 diario-de-bordo.md → Registro cronológico
+-📁 03-exercicios/ → Treinamento de reforço
+-📄 diario-de-bordo.md → Registro cronolicasógico
 
-text
+
 
 ## 📚 Stack Atual
 
@@ -58,6 +61,7 @@ text
 
 - [Fundamentos](01-fundamentos/) - Exercícios de sintaxe
 - [Projetos](02-projetos/) - Aplicações práticas
+- [Exercicios](03-exercicios/) - Exercícios de reforço
 - [Diário de Bordo](diario-de-bordo.md) - Cronologia detalhada
 
 ## 🎓 Formação
@@ -67,4 +71,4 @@ Foco atual: Aprofundamento técnico em backend JavaScript/TypeScript
 
 ---
 
-**Contato:** [Linkedin - [Iran Camargo](https://www.linkedin.com/in/iran-camargo-158682283/)] | [camargoiran48@tgmail.com]
+**Contato:** [Linkedin - [Iran Camargo](https://www.linkedin.com/in/iran-camargo-158682283/)] | [camargoiran48@gmail.com]

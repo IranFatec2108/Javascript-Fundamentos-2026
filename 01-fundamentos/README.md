@@ -71,6 +71,7 @@ Exercícios práticos cobrindo sintaxe básica e conceitos essenciais.
 - ✅ Validações
 
 **Próximo:**
+- [ ] Functions - continuação
 - [ ] Arrays (map, filter, reduce)
 - [ ] Objetos e métodos
 - [ ] Arrow functions
