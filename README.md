@@ -31,10 +31,10 @@ Documentação completa da minha jornada de aprendizado em JavaScript, focando e
 
 **--**
 
--📁 01-fundamentos/ → Sintaxe básica e conceitos core
--📁 02-projetos/ → Aplicações práticas
--📁 03-exercicios/ → Treinamento de reforço
--📄 diario-de-bordo.md → Registro cronolicasógico
+- 📁 01-fundamentos/ → Sintaxe básica e conceitos core
+- 📁 02-projetos/ → Aplicações práticas
+- 📁 03-exercicios/ → Treinamento de reforço
+- 📄 diario-de-bordo.md → Registro cronolicasógico
 
 
 
