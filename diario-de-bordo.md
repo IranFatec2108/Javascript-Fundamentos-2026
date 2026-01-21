@@ -119,3 +119,33 @@ Estudei validação de entrada em múltiplas camadas e funções matemáticas.
 
 ---
 
+
+## 21/01/2026 - Dia 8: **DOMINAÇÃO DE FUNÇÕES** 
+
+**Consolidei escopo, funções aninhadas e shadowing em sessão intensiva de 2h.**
+
+**Aprendi:**
+- **Funções aninhadas** (`f1()` e `f2()` só existem dentro da `principal()`)
+- **Escopo local vs global** (variáveis locais não afetam globais)
+- **Shadowing** (`var x` dentro função cria nova variável independente)
+- **Sem `var`** modifica variável global
+- Diferença **função** vs **método** (método = função dentro objeto)
+
+**Prática hands-on:**
+```
+✅ funcoes-basicas.js (soma, multiplica)
+✅ Funções aninhadas (principal → f1, f2)
+✅ Shadowing global/local (mesmo nome, escopos diferentes)
+✅ Escopo aninhado (filhas só chamáveis pela mãe)
+```
+
+**Conceitos consolidados:**
+
+- Function expressions (`var func = function(){}`)
+- Parâmetros/return
+- Escopo local/global/parent
+- Shadowing com `var`
+
+
+**Reflexão:** De "primeira função soma" (05/01) para "escopo aninhado e shadowing" em 16 dias. Evolução exponencial!   
+**Próximo:** Arrays e objetos (onde funções viram métodos!)
