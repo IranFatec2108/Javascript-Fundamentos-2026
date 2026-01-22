@@ -148,4 +148,47 @@ Estudei validação de entrada em múltiplas camadas e funções matemáticas.
 
 
 **Reflexão:** De "primeira função soma" (05/01) para "escopo aninhado e shadowing" em 16 dias. Evolução exponencial!   
-**Próximo:** Arrays e objetos (onde funções viram métodos!)
+
+
+
+## 21/01/2026 - Dia 8: **FUNÇÕES DE 1ª CLASSE** 
+
+**Sessão noturna (19:00-23:00): Functions avançadas maSTRADAS!**
+
+**Aprendi:**
+- **Funções como parâmetros** (`operacao` aceita QUALQUER função)
+- **Calculadora flexível** (1 função faz TODAS operações)
+- **Substituição dinâmica** (`operacao` vira `somaa`, `sub`, etc)
+- Conceito **"funções de 1ª classe"** (podem ser passadas/retornadas/armazenadas)
+
+**Código chave:**
+- calculadora(x, y, operacao) → operacao(x, y)
+- somaa → [somaa]
+- sub → [sub]
+- multi → [multi]
+
+
+
+**Prática hands-on:**
+✅ 4 funções operações (somaa, sub, multi, div)
+✅ Calculadora universal (aceita qualquer operação)
+✅ Funções como "espaço substituível" (conceito DOMINADO)
+
+text
+
+**Conceitos consolidados:**
+- Function expressions (100%)
+
+- Parâmetros/return (100%)
+
+- Escopo/shadowing (100%)
+
+- FUNÇÕES COMO PARÂMETROS (100%) ← HOJE!
+
+
+**Reflexão:** De `soma(x,y)` simples para `calculadora(x,y,QUALQUER_FUNÇÃO)` em 1 sessão!  
+**Evolução:** Funções agora são **"peças de lego"** que encaixo onde quero.
+**Atenção:** Preciso dar inicio aos meus exercicios com urgência, para melhorar minha pratica de escrita e análise de código
+**Tempo:** 19:00-23:00 (4h foco total)  
+**Status:** **Functions COMPLETAMENTE DOMINADAS** ✅✅✅  
+**Próximo:** Arrays (`.map()` usa esse conceito!)

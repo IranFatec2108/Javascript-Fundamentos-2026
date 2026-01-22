@@ -29,18 +29,38 @@ principal();                    // Executa principal(), que chama f1() e f2()
 
 //////////////////////////////////////////////////////////////////////
 
-// TERCEIRO EXEMPLO - ESCOPO LOCAL vs GLOBAL (SHADOWING)
-const x = "variavel global";     // Constante no ESCOPO GLOBAL
 
-const f1 = function(){
-    const x = "variavel da função 1";  // NOVA constante LOCAL (não afeta global)
-                                       // 'const' cria "cópia" independente
+
+// SISTEMA DE CALCULADORA FLEXÍVEL - FUNÇÕES COMO PARÂMETROS
+var somaa = function (x, y){
+    // 'somaa' guarda função que recebe x, y e RETORNA soma
+    return x + y;  // Criação de função específica para soma
 }
-f1();                            // Executa f1(), mas não imprime nada
 
-const f2 = function(){
-    const x = "variável da função 2";  // OUTRA constante LOCAL (não afeta global)
+var sub = function (x, y){
+    // 'sub' guarda função que recebe x, y e RETORNA subtração
+    return x - y;
 }
-f2();                            // Executa f2(), mas não imprime nada
 
-console.log(x);                  // Imprime "variavel global" (não foi alterada!)
+var multi = function (x, y){
+    // 'multi' guarda função que recebe x, y e RETORNA multiplicação
+    return x * y;
+}
+
+var div = function (x, y){
+    // 'div' guarda função que recebe x, y e RETORNA divisão
+    return x / y;
+}
+
+// CALCULADORA UNIVERSAL - O CORAÇÃO DO SISTEMA
+var calculadora = function(x, y, operacao){
+    // 'calculadora' recebe: números x,y E UMA FUNÇÃO (operacao)
+    // 'operacao' é espaço que ACEITA QUALQUER função (somaa, sub, etc)
+    return operacao(x, y);  // CHAMA a função que foi passada como parâmetro
+                            // Substitui 'operacao' por somaa, sub, multi, ou div
+}
+
+// USO: Passo os números + ESCOLHO a operação
+calculadora(10, 20, somaa);  // operacao=somaa → faz 10+20=30
+// calculadora(10, 20, sub); // operacao=sub → faria 10-20=-10
+// calculadora(10, 20, multi); // operacao=multi → faria 10*20=200
